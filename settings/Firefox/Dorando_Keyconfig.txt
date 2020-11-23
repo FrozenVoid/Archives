@@ -1,0 +1,4 @@
+reload f5
+Close tab F6
+back f7
+Undo close tab f8
